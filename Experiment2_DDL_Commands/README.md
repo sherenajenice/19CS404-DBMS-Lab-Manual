@@ -274,7 +274,7 @@ add mobilenumber  number
 
 ## Grade
 
-<img width="1738" height="86" alt="image" src="https://github.com/user-attachments/assets/7aad7f94-4dea-4989-9d1d-f5f34066bd17" />
+<img width="1065" height="58" alt="image" src="https://github.com/user-attachments/assets/cd1b9e0a-6a4d-4768-b26e-3826c13f3452" />
 
 
 ## RESULT
