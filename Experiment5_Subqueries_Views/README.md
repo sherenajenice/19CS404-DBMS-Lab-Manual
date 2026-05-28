@@ -204,7 +204,7 @@ WHERE SALARY > 1500
 
 ## Grade
 
-<img width="1043" height="55" alt="image" src="https://github.com/user-attachments/assets/bc86782f-47aa-4005-ba0f-5118f661d611" />
+<img width="1738" height="83" alt="image" src="https://github.com/user-attachments/assets/0424ca51-cf80-45ae-9168-b72852e7c3f7" />
 
 
 ## RESULT
