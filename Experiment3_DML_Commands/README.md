@@ -206,7 +206,8 @@ where CUST_COUNTRY NOT IN ('India','USA');
 
 ## Grade
 
-<img width="1066" height="61" alt="image" src="https://github.com/user-attachments/assets/f42fb01e-b591-4492-8caa-5e80fd5db9bc" />
+<img width="1078" height="55" alt="image" src="https://github.com/user-attachments/assets/6e219610-ca92-4949-98f7-71b3e2a1d424" />
+
 
 ## RESULT
 Thus, the SQL queries to implement DML commands have been executed successfully.
